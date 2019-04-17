@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace Calculator
 {
     //Math class with Add, Subtract, Multiply and Divide Function
-    //Math class with Add, Subtract, Multiply and Divide Function
     public class MathsClass
     {
         public double Add(double num1, double num2)
